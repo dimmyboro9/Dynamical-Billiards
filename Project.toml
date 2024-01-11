@@ -1,0 +1,10 @@
+name = "billiard"
+uuid = "3ec907d6-56e2-4fcc-af37-fac7b2673221"
+authors = ["Dmytro Borovko <borodmytro9@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
